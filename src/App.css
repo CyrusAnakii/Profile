@@ -1,0 +1,151 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.Jumbo {
+  margin: 0;
+  padding: 20px;
+  background-image: linear-gradient(to right, #5637DD, #3046C5, red);
+  color: black;
+  font-family: Yellowtail;
+}
+.Navvy {
+  background-image: linear-gradient(to left, #5637DD, #3046C5, red);
+  color: black;
+  font-size: larger;
+}
+.NeedsMargin {
+  margin-top: 20%;
+}
+
+.Boldify {
+  font-weight: bold;
+}
+
+.FloaterTextRed {
+  font-weight: bold;
+  color: red;
+}
+
+.FloaterTextAqua {
+  font-weight: bold;
+  color: aqua;
+}
+
+.FloaterTextGreen {
+  font-weight: bold;
+  color: greenyellow;
+}
+
+.textAqua {
+  color: aqua;
+}
+
+.textRed {
+  color:red
+}
+
+.textGreen {
+  color: greenyellow;
+}
+
+.childhood {
+  margin-left: 37%;
+  margin-top: 5%;
+}
+
+.FloaterTextRed2 {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+.textRed2 {
+  color:red;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.borderRed {
+  border-style: solid;
+  border-color: red;
+}
+
+.borderAqua {
+  border-style: solid;
+  border-color: aqua;
+}
+
+.scrollMargins {
+  margin-top: 70px;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-size: 30;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.CenterThis {
+  margin-top: 50px;
+  font-size: large;
+}
+.CenterThis2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.CenterThis3 {
+  margin: auto;
+  width: 40%
+}
+.MakeItBig {
+  font-size: large;
+}
+.Boldify2 {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+
