@@ -18,8 +18,10 @@ class Header extends Component {
         <div className="container-fluid Jumbo">
           <div className="row">
             <div className="col">
-              <h1>Need a coder ASAP?</h1>
-              <h2>I cam fix that!</h2>
+              <h1>
+                Anyone else lie awake at night thinking of what to code next?
+              </h1>
+              <h2>Because i'm starting to think I have a problem...</h2>
             </div>
           </div>
         </div>
