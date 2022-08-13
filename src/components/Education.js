@@ -60,9 +60,9 @@ class Education extends Component {
               mock-site is mostly just for me to get extra practice in, but will
               likely also be shown to anyone who wants to see that I at least
               know the basics. I'll likely try to input extras in here and
-              there, again just for practice. I plan to implement a mock
-              back-end for this as well, but won't likely set up a login
-              function since there's really no arguable reason for it.
+              there, again just for practice. I thought about making a mock
+              back-end for this as well, but realized it wouldn't really show
+              off any skills other than basic routing.
             </p>
           </div>
           <div className="col-3">

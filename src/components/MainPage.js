@@ -27,7 +27,7 @@ function MainPage() {
               <CardImg src={temp} alt="A picture of me" />
               <CardBody className="text-center">
                 <CardTitle>Matt Ramsey</CardTitle>
-                <CardText>Lookin' to get this coding party started!</CardText>
+                <CardText>Alea Iacta Est!</CardText>
               </CardBody>
             </Card>
             <Card inverse color="primary">
